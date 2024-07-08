@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "883994908724",
+    "project_id": "driven-bulwark-424116-c8",
+    "storage_bucket": "driven-bulwark-424116-c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883994908724:android:948478115038009cd51261",
+        "android_client_info": {
+          "package_name": "com.example.elcueapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi7LIFhErs6BGXAiGh-ObkpD3EGaxKPyE"
+        },
+        {
+          "current_key": "AIzaSyD-Li8nPxLgB_r-vSuroQsIrrOABebfOXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883994908724:android:f905fb49f9ce4432d51261",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_clone_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi7LIFhErs6BGXAiGh-ObkpD3EGaxKPyE"
+        },
+        {
+          "current_key": "AIzaSyD-Li8nPxLgB_r-vSuroQsIrrOABebfOXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
